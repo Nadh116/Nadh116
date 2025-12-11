@@ -40,7 +40,7 @@
 
 - 🌟 I enjoy building apps that solve real problems for students and communities.  
 - 📘 I love reading, coding tutorials, and learning new frameworks.  
-- 🛠 Currently working on **Ethio Exit Exam App** and **School Management System**.
+- 🛠 Currently working on **School Management System**.
 
 ---
 
