@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 4th-year Software Engineering Student  
-- 💼 Building modern systems using **React, Node.js, PHP, Java, MySQL**  
+- 💼 Building modern systems using **React, Node.js, PHP, Java,Mongodb, MySQL**  
 - 🌍 Based in Ethiopia  
 - 📚 Always learning new technologies and building real-world projects  
 - 🔐 Interested in Cybersecurity & Digital Transformation  
