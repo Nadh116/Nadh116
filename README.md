@@ -1,49 +1,95 @@
-<h2 align="center">Hi there, I'm Nedhi! 👋</h2>
+<h1 align="center">Hi 👋, I'm Nedhi Jemal</h1>
+<h3 align="center">4th Year Software Engineering Student</h3>
 
 <p align="center">
-  <b>Software Engineer</b> <br>
-  <b>Full-Stack Developer | Mobile & Web Systems Builder</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=950&lines=I+build+scalable+web+applications+with+clean+architecture.;Passionate+about+solving+real-world+problems+through+code+💻;Focused+on+performance,+security,+and+maintainable+systems." />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 4th-year Software Engineering Student  
-- 💼 Building modern systems using **React, Node.js, PHP, Java,Mongodb, MySQL**  
-- 🌍 Based in Ethiopia  
-- 📚 Always learning new technologies and building real-world projects  
-- 🔐 Interested in Cybersecurity & Digital Transformation  
+I am **Nedhi Jemal**, a **4th-year Software Engineering student** with a strong passion for building modern,
+scalable web applications.
 
----
-
-## 📫 Contact Me
-
-<p align="left">
-  <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:nadhiijemal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I focus on **clean architecture**, **performance**, and **maintainable code**, and I enjoy solving real-world
+problems through technology. I am continuously improving my skills in backend systems, APIs,
+and full-stack development.
 
 ---
 
-## ⚡ Fun Facts
+## 🛠️ MY TECH STACK
 
-- 🌟 I enjoy building apps that solve real problems for students and communities.  
-- 📘 I love reading, coding tutorials, and learning new frameworks.  
-.
+### 💻 Languages
+- JavaScript
+- TypeScript
+- Python
+- PHP
+
+### 🎨 Frontend
+- React
+- Tailwind CSS
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nadh116&color=brightgreen" alt="Profile views"/>
-</p>
+## 🏗️ MY DEVELOPMENT APPROACH
+
+**Frontend → APIs → Backend → Database**
+
+I believe in building software layer by layer with a strong foundation.
+Every part of the system is designed for **scalability**, **performance**, and **future growth**.
+
+---
+
+## 📚 CURRENTLY LEARNING
+
+### 🎯 Backend Systems
+- Advanced Node.js
+- Python Backend Development
+- API Optimization
+
+### ⚡ Performance
+- Database Optimization
+- React Performance
+- Load Balancing Concepts
+
+### 🔐 Best Practices
+- Security Patterns
+- Testing Strategies
+- Clean Code & Architecture
+
+---
+
+## 📞 LET'S CONNECT
+
+I’m always open to discussing **new opportunities**, **collaborations**, or just chatting about tech.
+
+📧 **Email:** yihunebelay859@gmail.com  
+🌍 **Location:** Ethiopia  
+🤝 **Availability:** Open to opportunities
+
+---
+
+## 📊 PROFILE VISITS
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
+> *"Good code is like a good story — it should be clean, structured, and easy to follow." ✨*
+
+Thanks for visiting! Have a great day 😊
