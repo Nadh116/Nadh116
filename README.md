@@ -1,11 +1,8 @@
-<h1 align="center">Full-Stack Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Nedhi Jemal</h1>
+<h3 align="center">4th Year Software Engineering Student | Full-Stack Web Developer</h3>
 
 <p align="center">
-  <b>Nedhi Jemal</b> • 4th Year Software Engineering Student  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications+with+clean+architecture.;Passionate+about+solving+real-world+problems+through+code+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=20&center=true&vCenter=true&width=850&lines=Building+scalable+web+applications+with+clean+architecture.;Passionate+about+solving+real-world+problems+through+code+💻" />
 </p>
 
 <p align="center">
@@ -14,77 +11,43 @@
   <img src="https://img.shields.io/badge/Location-Ethiopia-green" />
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/View%20Portfolio-black?style=for-the-badge"></a>
-  <a href="mailto:nadhiijemal503@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge"></a>
-</p>
+---
+
+## 👋 About Me
+I am a **4th-year Software Engineering student** passionate about building **scalable, maintainable web applications**.
+I focus on **clean architecture**, **performance**, and **real-world impact**.
 
 ---
 
-## 🛠️ MY TECH STACK
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-![PHP](https://img.shields.io/badge/PHP-purple)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-cyan)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-teal)
-
-### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node.js-green)
-![Express](https://img.shields.io/badge/Express-black)
-![REST](https://img.shields.io/badge/REST%20API-red)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+## 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, PHP  
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 🏗️ MY DEVELOPMENT APPROACH
-**Frontend → APIs → Backend → Database**
-
-I focus on **clean architecture**, **scalable design**, and **maintainable code**.  
-Every layer is built with performance and future growth in mind.
+## 🏗️ Development Approach
+**Frontend → APIs → Backend → Database**  
+I build systems layer by layer with scalability and future growth in mind.
 
 ---
 
-## 📚 CURRENTLY LEARNING
-
-**Backend Systems**
-- Advanced Node.js  
-- Python backend  
-- API optimization  
-
-**Performance**
-- Database optimization  
-- React performance  
-
-**Best Practices**
-- Security patterns  
-- Testing strategies  
-- Clean architecture  
+## 📚 Currently Learning
+Advanced backend systems, API optimization, performance, and best practices.
 
 ---
 
-## 📞 LET’S CONNECT
-
+## 📞 Contact
 📧 **Email:** nadhiijemal503@gmail.com  
 🌍 **Location:** Ethiopia  
 🤝 **Availability:** Open to opportunities  
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Nadh116&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-> *“Good code is like a good story — clean, structured, and easy to follow.”*
-
-Thanks for visiting! 😊
+> *“Good code is clean, structured, and easy to understand.”*
