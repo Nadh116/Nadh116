@@ -1,72 +1,72 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Nedhi%20Jemal&fontSize=42&fontColor=ffffff&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h3 align="center">
-  Full-Stack Software Engineer | Internship Candidate
+  Full-Stack Software Engineer | Internship Candidate 🎓
 </h3>
 
 <p align="center">
-  <b>4th Year Software Engineering Student — Haramaya University</b>
+  4th Year Software Engineering — Haramaya University
+</p>
+
+<br/>
+
+<!-- ===================== SOCIAL BUTTONS ===================== -->
+<p align="center">
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ===================== STATUS BADGES ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCE-Final%20Year-brightgreen"/>
+  <img src="https://img.shields.io/badge/AVAILABILITY-Internship-blue"/>
+  <img src="https://img.shields.io/badge/LOCATION-Ethiopia-black"/>
+  <img src="https://img.shields.io/badge/ROLE-Full--Stack-orange"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NedhiJemal&style=flat-square&color=blue"/>
 </p>
 
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+---
+
+## 👨‍💻 Professional Profile
+Final-year **Software Engineering student** at **Haramaya University**, specializing in **full-stack web development**.  
+Strong foundation in **backend systems, databases, and scalable application design**.  
+Actively seeking **software engineering internship opportunities**.
 
 ---
 
-## 👨‍💻 Professional Summary
-I am a **Full-Stack Software Engineering student** in my final year at **Haramaya University**, actively seeking **internship opportunities**.  
-I build **scalable, secure, and maintainable web applications** using modern backend and frontend technologies.  
-Strong foundation in **software engineering principles, databases, and system design**.
+## 🧠 Technical Stack
 
----
+### Programming Languages
+- JavaScript, Python, PHP, Java, C#
 
-## 🧠 Technical Skills
+### Frameworks & Technologies
+- MERN Stack (MongoDB, Express, React, Node.js)
+- ASP.NET / .NET Core
+- RESTful API Development
 
-### 🔹 Programming Languages
-- C#, Java, Python, PHP, JavaScript
+### Databases
+- MySQL
+- SQL Server
 
-### 🔹 Backend & Frameworks
-- ASP.NET / ASP.NET MVC  
-- .NET Core  
-- Node.js & Express  
-- RESTful API Development  
-
-### 🔹 Frontend
-- HTML5, CSS3, JavaScript  
-- React (MERN-based development)
-
-### 🔹 Databases
-- MySQL  
-- SQL Server  
-- Database Design & Normalization
-
-### 🔹 Tools & Concepts
-- Git & GitHub  
-- MVC Architecture  
-- Object-Oriented Programming (OOP)  
-- Software Development Lifecycle (SDLC)
-
----
-
-## 📌 Key Strengths
-- Full-Stack Development (Frontend + Backend)
-- Strong problem-solving and debugging skills
-- Clean, readable, and maintainable code
-- Quick learner and adaptable to new technologies
-- Team collaboration & version control
+### Concepts & Tools
+- OOP & MVC Architecture
+- Git & GitHub
+- Software Development Life Cycle (SDLC)
 
 ---
 
@@ -81,7 +81,7 @@ Strong foundation in **software engineering principles, databases, and system de
 
 ---
 
-## 🐍 Contribution Activity
+## 🟩 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/NedhiJemal/NedhiJemal/output/github-contribution-grid-snake-dark.svg"/>
 </p>
@@ -89,15 +89,15 @@ Strong foundation in **software engineering principles, databases, and system de
 ---
 
 ## 🎯 Career Objective
-Seeking a **software engineering internship** where I can:
-- Apply academic knowledge to real-world projects
-- Contribute to company solutions
-- Grow as a professional software engineer
+To secure a **software engineering internship** where I can:
+- Apply real-world development practices
+- Contribute to production-level systems
+- Grow as a professional full-stack engineer
 
 ---
 
 <p align="center">
-  <i>Reliable. Motivated. Ready to contribute.</i>
+  <b>Reliable • Focused • Ready to Contribute</b>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
