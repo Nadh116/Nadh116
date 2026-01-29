@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
 </p>
 ---
-<!-- Line 1 -->
+
 ![Typing Line 1](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=FF5733&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer)
-<!-- Line 2 -->
+
 ![Typing Line 2](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=1ABC9C&width=800&lines=I+am+a+4th-year+Software+Engineering+Student+at+Haramaya+University)
-<!-- Line 3 -->
+
 ![Typing Line 3](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=F1C40F&width=800&lines=I+am+here+to+solve+real-world+problems+using+tech)
-<!-- Line 4 -->
+
 ![Typing Line 4](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=9B59B6&width=800&lines=I+am+a+Full+Stack+Developer+%28MERN+Stack%29)
 
 ---
