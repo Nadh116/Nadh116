@@ -1,78 +1,87 @@
-<!-- PROFILE BANNER -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Nadhii%20Tech&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=YOUR%20NAME&fontSize=42&fontAlignY=35" />
 </p>
 
-<h1 align="center">Nadhii (NT)</h1>
+<h2 align="center">👋 Hi, I'm YOUR NAME</h2>
 
-<h3 align="center">
-  Software Developer | Tech Mentor 🎓
-</h3>
+<h4 align="center">
+  Software Developer | Tech Enthusiast | Lifelong Learner 🚀
+</h4>
 
 <p align="center">
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+
 - 🎓 Software Engineering Student  
-- 💻 Passionate about **C#, ASP.NET MVC, Databases**
+- 💻 Interested in **Web Development, Backend & Databases**
+- 🌱 Currently learning **ASP.NET MVC, Entity Framework, C#**
+- 🤝 Open to collaboration on **Open Source & Student Projects**
 - 🌍 Based in **Ethiopia**
-- 🚀 Learning, building & sharing knowledge
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+## 🧰 Tech Stack
+
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
+## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📌 Experience & Availability
-- 🧠 Experience: **2+ Years (Learning & Projects)**
-- 🌐 Availability: **Worldwide (Remote)**
-- 🔓 Open Source: **Yes**
-- ✅ Status: **Ready to Collaborate**
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6" />
+</p>
 
 ---
 
-### 🧩 Contribution Graph
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  ✨ “Code. Learn. Build. Repeat.” ✨
 </p>
 
-<!-- FOOTER -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
