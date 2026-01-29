@@ -1,41 +1,34 @@
-<!-- ========================================= -->
-<!--   Nadhii Jemal | Internship-Ready README  -->
-<!-- ========================================= -->
-
-<h1 align="center">Nadhii Jemal</h1>
-<h3 align="center">Software Engineering Student | Aspiring Full-Stack Developer</h3>
+<!-- ============================================ -->
+<!--   Nadhii Jemal | Internship GitHub Profile   -->
+<!-- ============================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=700&center=true&vCenter=true&width=520&lines=Internship-Ready+Software+Engineer;Strong+in+Web+and+Backend+Development;Clean+Code+%7C+MVC+%7C+APIs+%7C+Databases;Motivated+Learner+%7C+Team+Player" />
+  <img src="[https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4](https://avatars.githubusercontent.com/u/189297043?v=4&size=64)" width="160" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Nadhii Jemal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=800&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Internship-Ready+Full-Stack+Developer;ASP.NET+MVC+%7C+React+%7C+Node.js;Clean+Code+%7C+Scalable+Systems+%7C+Databases;Motivated+Learner+%7C+Team+Contributor" />
 </p>
 
 ---
 
-## 👋 Professional Summary
+## 👨‍💻 Professional Profile
 
-I am a **final-year Software Engineering student** with strong foundations in **software development, system design, and database-driven applications**.  
-I actively build **real-world academic and personal projects**, follow **industry-standard architectures**, and focus on **writing clean, maintainable, and secure code**.
+I am a **final-year Software Engineering student** with hands-on experience building **structured, database-driven web applications** using **modern frameworks and clean architectures**.
 
-I am currently seeking a **software engineering internship** where I can:
-- Apply my technical skills in a real development environment
-- Learn from experienced engineers
-- Contribute meaningfully to production systems
+I focus on:
+- Writing **maintainable and readable code**
+- Applying **MVC and layered architecture**
+- Designing **secure and efficient systems**
+- Learning industry tools and best practices
 
----
-
-## 🎯 Core Competencies
-
-- Object-Oriented Programming (OOP)
-- MVC Architecture (ASP.NET MVC)
-- RESTful API Development
-- Database Design & Normalization
-- Authentication & Authorization Concepts
-- Debugging, Testing & Documentation
-- Team Collaboration & Version Control (Git)
+🎯 **Currently seeking a Software Engineering Internship** to gain real-world experience and contribute to professional development teams.
 
 ---
 
-## 🛠 Technical Skills
+## 🧠 Technical Expertise
 
 ### Programming Languages
 - Java
@@ -43,97 +36,101 @@ I am currently seeking a **software engineering internship** where I can:
 - JavaScript
 - PHP
 
-### Web & Application Development
+### Frameworks & Technologies
 - ASP.NET MVC
 - React
 - Node.js
-- HTML5, CSS3
+- HTML5 / CSS3
 
 ### Databases
 - MySQL
 - SQL Server
 - MongoDB (basic)
 
-### Tools & Platforms
+### Tools
 - Git & GitHub
 - Visual Studio / VS Code
 - Postman
-- Figma (basic UI design)
+- Figma (UI basics)
 
 ---
 
-## 📌 Academic & Personal Projects
+## 🧩 Key Projects
 
 ### 🎓 University / School Management System
-**Description:**  
-A role-based web system designed to manage students, teachers, courses, and academic results.
+**Overview:**  
+A role-based academic management platform for handling students, teachers, courses, and results.
 
-**Key Features:**
-- Secure login with user roles
-- Student performance tracking
-- CRUD operations with validation
+**Highlights:**
+- Secure authentication & authorization
+- Student performance analysis
+- Clean RESTful APIs
 
-**Technologies:** React, Node.js, MySQL
+**Tech Stack:** React, Node.js, MySQL
 
 ---
 
 ### 📝 Exam Management System
-**Description:**  
-A structured exam platform supporting question banks, timed exams, and automated evaluation.
+**Overview:**  
+A structured web system for managing exams, questions, and automated evaluation.
 
-**Key Features:**
+**Highlights:**
 - MVC architecture
-- Database-backed question storage
-- Clean separation of concerns
+- Entity Framework Core
+- Relational database modeling
 
-**Technologies:** ASP.NET MVC, Entity Framework Core, SQL Server
+**Tech Stack:** ASP.NET MVC, EF Core, SQL Server
 
 ---
 
 ### 📊 Student Record Management System
-**Description:**  
-A lightweight web application for managing student records efficiently.
+**Overview:**  
+A lightweight web application for efficient student data management.
 
-**Key Features:**
-- CRUD functionality
-- Server-side validation
-- Relational database design
+**Highlights:**
+- Full CRUD operations
+- Input validation
+- Optimized SQL queries
 
-**Technologies:** PHP, MySQL
+**Tech Stack:** PHP, MySQL
 
 ---
 
-## 📈 GitHub Activity & Statistics
+## 📈 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=yourusername&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Professional Values
+## 🎯 Internship Objective
 
-- Strong work ethic
-- Willingness to learn quickly
-- Respect for deadlines and quality
-- Clear communication
-- Responsibility and ownership
+> **To apply my academic knowledge in a professional environment, learn from experienced engineers, and contribute to real-world software solutions.**
 
 ---
 
-## 📫 Contact Information
+## 📬 Contact & Profiles
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌍 GitHub: https://github.com/yourusername  
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## 💬 Career Objective
-
-> **To gain hands-on industry experience through an internship, contribute to impactful software solutions, and grow into a professional software engineer.**
-
----
-
-⭐ *Thank you for visiting my profile. I am open to internship opportunities and collaboration.*
+<p align="center">
+  <strong>⭐ Open to internship opportunities | Ready to learn | Ready to contribute ⭐</strong>
+</p>
