@@ -1,6 +1,6 @@
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text= Hi I'm Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=HiI'mNedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
 </p>
 
 
