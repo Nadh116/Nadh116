@@ -4,12 +4,10 @@
 </p>
 ---
 
-
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=FF5733&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer;4th-year+Software+Engineering+Student+at+Haramaya+University;Solving+real-world+problems+using+tech;Full+Stack+Developer+(MERN+Stack))
-
-
-
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=1000&width=800&color=FF5733&lines=I+am+Nadhii+Jemal,+Software+Developer)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=3000&width=800&color=1ABC9C&lines=4th-year+Software+Engineering+Student+at+Haramaya+University)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=5000&width=800&color=F1C40F&lines=Solving+real-world+problems+using+tech)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=7000&width=800&color=9B59B6&lines=Full+Stack+Developer+%28MERN+Stack%29)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
 ---
