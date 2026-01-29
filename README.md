@@ -1,19 +1,21 @@
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=HiI'mNedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi_I'm_Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
 </p>
 
+## Full Stack Banner
 
+**I am Nadhii Jemal, Software Developer** 💻  
+**I am here to solve real-world problems using tech** 🌍  
+**I am a Full Stack Developer** ⚛️🟢💻  
 
-**Full Stack Developer | MERN Stack Enthusiast | Student** 🚀
+**I am Nadhii Jemal, Software Developer** 💻  
+**I am here to solve real-world problems using tech** 🌍  
+**I am a Full Stack Developer** ⚛️🟢💻  
 
----
-
-## About Me
-
-I am a passionate **Full Stack Developer** with a strong focus on building **modern web applications** using the MERN stack.  
-I enjoy creating **efficient, scalable, and user-friendly solutions** while continuously learning new technologies.  
-My interest lies in **real-world problem solving**, **clean architecture**, and **end-to-end development**.  
+**I am Nadhii Jemal, Software Developer** 💻  
+**I am here to solve real-world problems using tech** 🌍  
+**I am a Full Stack Developer** ⚛️🟢💻  
 
 ---
 
@@ -44,6 +46,15 @@ My interest lies in **real-world problem solving**, **clean architecture**, and 
 - **VS Code / Visual Studio** 🖥️ ![VSCode](https://img.shields.io/badge/VSCode-90%25-blue)
 - **Postman / Insomnia** 📬 ![Postman](https://img.shields.io/badge/Postman-80%25-orange)
 - **Figma / Canva** 🎨 ![Figma](https://img.shields.io/badge/Figma-60%25-red)
+
+---
+---
+
+## About Me
+
+I am a passionate **Full Stack Developer** with a strong focus on building **modern web applications** using the MERN stack.  
+I enjoy creating **efficient, scalable, and user-friendly solutions** while continuously learning new technologies.  
+My interest lies in **real-world problem solving**, **clean architecture**, and **end-to-end development**.  
 
 ---
 
@@ -94,7 +105,4 @@ My personal responsive portfolio to showcase projects and skills.
 ---
 
 ⭐ *Building modern web solutions with the MERN stack. Always learning, always coding.* 🚀
-
-
-
 
