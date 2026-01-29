@@ -1,92 +1,107 @@
-<h1 align="center">Full-Stack Web Developer</h1>
+<!-- ========================= -->
+<!--   Nadhii Jemal – README   -->
+<!-- ========================= -->
+
+<h1 align="center">Hi 👋, I'm Nadhii Jemal</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <b>Nadhii Jemal</b> • 4th Year Software Engineering Student  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications+with+clean+architecture.;Passionate+about+solving+real-world+problems+through+code+💻" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Student-blue" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-orange" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia-green" />
-</p>
-
-<p align="center">
-  <a href="https://nadh116.github.io"><img src="https://img.shields.io/badge/View%20Portfolio-black?style=for-the-badge"></a>
-  <a href="mailto:nadhiijemal503@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge"></a>
-  <a href="https://github.com/Nadh116"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"></a>
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+ASP.NET+MVC;Database+%7C+API+%7C+System+Design;Building+Real-World+Projects" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ MY TECH STACK
+## 🧑‍💻 About Me
+
+- 🎓 **4th Year Software Engineering Student**
+- 💡 Passionate about **building scalable, real-world systems**
+- 🌍 Interested in **Web Apps, APIs, Databases, and System Architecture**
+- 🔭 Currently working on **School & University Management Systems**
+- 📈 Focused on **clean code, security, and performance**
+- 🤝 Open to **internships, collaborations, and open-source projects**
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-![PHP](https://img.shields.io/badge/PHP-purple)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-cyan)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-teal)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node.js-green)
-![Express](https://img.shields.io/badge/Express-black)
-![REST](https://img.shields.io/badge/REST%20API-red)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue)
-
----
-
-## 🏗️ MY DEVELOPMENT APPROACH
-**Frontend → APIs → Backend → Database**  
-
-I focus on **clean architecture**, **scalable design**, and **maintainable code**.  
-Every layer is built with performance and future growth in mind.
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📚 CURRENTLY LEARNING
+## 📂 Featured Projects
 
-**Backend Systems**
-- Advanced Node.js  
-- Python backend  
-- API optimization  
+### 🎓 University / School Management System
+- Role-based access (Admin, Teacher, Student)
+- Secure authentication
+- Result processing & reports  
+**Tech:** React, Node.js, MySQL
 
-**Performance**
-- Database optimization  
-- React performance  
+### 📝 Exam Management System
+- Question bank
+- Timed exams
+- Automated grading  
+**Tech:** ASP.NET MVC, EF Core, SQL Server
 
-**Best Practices**
-- Security patterns  
-- Testing strategies  
-- Clean architecture  
+### 📊 Student Record Management Web App
+- CRUD operations
+- Clean MVC architecture  
+**Tech:** PHP, MySQL
 
 ---
 
-## 📞 LET’S CONNECT
-
-📧 **Email:** nadhiijemal503@gmail.com  
-🌍 **Location:** Ethiopia  
-🤝 **Availability:** Open to opportunities  
-🔗 **GitHub:** [https://github.com/Nadh116](https://github.com/Nadh116)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nadh116&color=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=yourusername&theme=tokyonight" height="160"/>
 </p>
 
-> *“Good code is like a good story — clean, structured, and easy to follow.”*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+</p>
 
-Thanks for visiting! 😊
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ✨ Personal Motto
+
+> **“Building systems that solve real problems — one line of code at a time.”**
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
