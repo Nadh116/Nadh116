@@ -1,9 +1,9 @@
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(Nedhi%10Tech)&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(Nedhi_Tech)&fontSize=40&fontColor=ffffff"/>
 </p>
 ---
-## Animated Full Stack Banner
+
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&pause=1000&color=FF5733&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer+•+4th-year+Software+Engineering+Student+at+Haramaya+University+•+Solving+real-world+problems+using+tech+•+Full+Stack+Developer+%28MERN+Stack%29)
 
