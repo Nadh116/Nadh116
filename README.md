@@ -1,101 +1,100 @@
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text= Hi I'm Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
 </p>
 
-# Hi 👋, I'm Nadhii
 
-**Software Developer | Student | Tech Enthusiast** ✨
+
+**Full Stack Developer | MERN Stack Enthusiast | Student** 🚀
 
 ---
 
 ## About Me
 
-I am a passionate software development student with a strong interest in building **clean, efficient, and scalable applications**.  
-I enjoy learning new technologies and applying them to **solve real-world problems**.  
-My focus areas include **backend development**, **web applications**, and **database systems**.  
-I value **continuous learning**, **good software design**, and **practical experience**.
+I am a passionate **Full Stack Developer** with a strong focus on building **modern web applications** using the MERN stack.  
+I enjoy creating **efficient, scalable, and user-friendly solutions** while continuously learning new technologies.  
+My interest lies in **real-world problem solving**, **clean architecture**, and **end-to-end development**.  
 
 ---
 
 ## Tech Stack / Skills
 
 ### Programming Languages
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+- `JavaScript` ⚡ ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow)
+- `TypeScript` 💎 ![TypeScript](https://img.shields.io/badge/TypeScript-70%25-blue)
+- `Python` 🐍 ![Python](https://img.shields.io/badge/Python-50%25-green)
+- `C#` 🔹 ![C#](https://img.shields.io/badge/C%23-40%25-blue)
 
-### Frameworks & Libraries
-- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-- ![Entity Framework](https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+### Frontend
+- **React.js** ⚛️ ![React](https://img.shields.io/badge/React-85%25-blueviolet)
+- **HTML / CSS** 🌐 ![HTML](https://img.shields.io/badge/HTML/CSS-90%25-orange)
+- **Bootstrap / Tailwind CSS** 🎨 ![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-purple)
+
+### Backend
+- **Node.js** 🟢 ![Node](https://img.shields.io/badge/Node.js-80%25-green)
+- **Express.js** 🚂 ![Express](https://img.shields.io/badge/Express.js-80%25-black)
+- **RESTful APIs** 🔗 ![API](https://img.shields.io/badge/REST-85%25-brightgreen)
 
 ### Databases
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-- ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+- **MongoDB** 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-brightgreen)
+- **MySQL / SQL** 🗄️ ![SQL](https://img.shields.io/badge/SQL-60%25-blue)
 
 ### Tools & Platforms
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
-### Concepts
-- **Object-Oriented Programming (OOP) 💡**  
-- **MVC Architecture 🏛️**  
-- **RESTful APIs 🔗**  
-- **Database Design & Normalization 🗂️**  
-- **Authentication & Authorization 🔐**  
-- **Software Development Life Cycle (SDLC) ⚙️**
+- **Git & GitHub** 🧰 ![Git](https://img.shields.io/badge/Git-85%25-red)
+- **VS Code / Visual Studio** 🖥️ ![VSCode](https://img.shields.io/badge/VSCode-90%25-blue)
+- **Postman / Insomnia** 📬 ![Postman](https://img.shields.io/badge/Postman-80%25-orange)
+- **Figma / Canva** 🎨 ![Figma](https://img.shields.io/badge/Figma-60%25-red)
 
 ---
 
 ## Currently Learning
 
-- ASP.NET Core Web APIs 🌱  
-- Advanced Database Design 🧩  
-- Clean Architecture 🏗️  
-- GitHub Collaboration Workflows 🔄  
-- Software Testing Fundamentals ✅  
+- **Next.js** 🌱
+- **GraphQL & Apollo** 🔗
+- **TypeScript Advanced Patterns** 💎
+- **Docker & Deployment** 🐳
+- **Unit Testing & TDD** ✅
 
 ---
 
 ## Projects
 
-### 🔹 Holistic Exam Management System
-A university-level system designed to manage **holistic examinations for final-year students**.  
-**Technologies:** ASP.NET MVC, Entity Framework, MySQL, C# 💻  
-![Holistic Exam](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+### 🔹 MERN E-Commerce Platform
+A full-stack e-commerce web application with authentication, product management, and payment integration.  
+**Technologies:** MongoDB, Express, React, Node.js, Stripe  
+![E-Commerce](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-### 🔹 Student Management System
-A CRUD-based application for managing **student records and academic data**.  
-**Technologies:** C#, SQL Server, .NET 🗄️  
-![CRUD](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+### 🔹 Online Learning Platform
+A web platform for managing courses, students, and instructors with dynamic dashboards.  
+**Technologies:** MERN Stack, REST APIs, JWT Authentication  
+![Learning](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-### 🔹 Web-Based Information System *(Placeholder)*
-A **responsive web application** focused on real-world data handling and user interaction.  
-**Technologies:** HTML, CSS, JavaScript, Backend Framework 🎨  
-![Web](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+### 🔹 Portfolio Website
+My personal responsive portfolio to showcase projects and skills.  
+**Technologies:** React.js, Tailwind CSS, Netlify  
+[Check it out](https://professional-portfolio-theta-khaki.vercel.app/) 🌐  
+![Portfolio](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadh116&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadh116&layout=compact&theme=default)
 
 ---
 
 ## Contact & Links
 
-- **GitHub:** [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME) ✨  
+- **GitHub:** [https://github.com/Nadh116](https://github.com/Nadh116) ✨  
 - **LinkedIn:** [https://linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME) 🔗  
-- **Email:** your.email@example.com 📧  
-- **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com) 🌐  
+- **Email:** nadhijemal503@gmail.com 📧  
+- **Portfolio:** [https://professional-portfolio-theta-khaki.vercel.app/](https://professional-portfolio-theta-khaki.vercel.app/) 🌐  
 
 ---
 
-⭐ *Always learning. Always building.* 🔥
+⭐ *Building modern web solutions with the MERN stack. Always learning, always coding.* 🚀
+
+
+
+
