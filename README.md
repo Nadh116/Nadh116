@@ -11,31 +11,16 @@
 
 ## Tech Stack / Skills
 
-### Programming Languages
-- `JavaScript` ⚡ ![JavaScript](https://img.shields.io/badge/JavaScript-25-yellow)
-- `TypeScript` 💎 ![TypeScript](https://img.shields.io/badge/TypeScript-25-blue)
-- `Python` 🐍 ![Python](https://img.shields.io/badge/Python-25-green)
-- `C#` 🔹 ![C#](https://img.shields.io/badge/C%23-25-blue)
+## Tech Stack / Skills
 
-### Frontend
-- **React.js** ⚛️ ![React](https://img.shields.io/badge/React-25-blueviolet)
-- **HTML / CSS** 🌐 ![HTML](https://img.shields.io/badge/HTML/CSS-25-orange)
-- **Bootstrap / Tailwind CSS** 🎨 ![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-purple)
-
-### Backend
-- **Node.js** 🟢 ![Node](https://img.shields.io/badge/Node.js-25-green)
-- **Express.js** 🚂 ![Express](https://img.shields.io/badge/Express.js-25-black)
-- **RESTful APIs** 🔗 ![API](https://img.shields.io/badge/REST-25-brightgreen)
-
-### Databases
-- **MongoDB** 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-25-brightgreen)
-- **MySQL / SQL** 🗄️ ![SQL](https://img.shields.io/badge/SQL-25-blue)
+| **Programming Languages** | **Frontend** | **Backend** | **Databases** |
+|---------------------------|-------------|------------|---------------|
+| `JavaScript`  | **React.js** ⚛️ | **Node.js**  | **MongoDB** 🍃 |
+| `TypeScript`  | **HTML / CSS** 🌐 | **Express.js**  | **MySQL / SQL** 🗄️ |
+| `Python` 🐍 | **Bootstrap / Tailwind CSS**  | **RESTful APIs** 🔗 | |
 
 ### Tools & Platforms
-- **Git & GitHub** 🧰 ![Git](https://img.shields.io/badge/Git-25-red)
-- **VS Code / Visual Studio** 🖥️ ![VSCode](https://img.shields.io/badge/VSCode-25-blue)
-- **Postman / Insomnia** 📬 ![Postman](https://img.shields.io/badge/Postman-25-orange)
-- **Figma / Canva** 🎨 ![Figma](https://img.shields.io/badge/Figma-25-red)
+**Git & GitHub**  | **VS Code / Visual Studio**  | **Postman / Insomnia**  | **Figma / Canva** 
 
 ---
 ---
