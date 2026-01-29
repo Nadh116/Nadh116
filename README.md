@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(Nedhi_Tech)&fontSize=40&fontColor=ffffff"/>
 </p>
----
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FF5733&width=1200&lines=I+am+Nadhii+Jemal,+Software+Developer;4th-year+Software+Engineering+Student+at+Haramaya+University;Solving+real-world+problems+using+tech;Full+Stack+Developer+(MERN+Stack))
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&width=1200&lines=I+am+Nadhii+Jemal,+Software+Developer;4th-year+Software+Engineering+Student+at+Haramaya+University;Solving+real-world+problems+using+tech;Full+Stack+Developer+(MERN+Stack)&color=FF5733,1ABC9C,F1C40F,9B59B6)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
 ---
