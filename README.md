@@ -3,19 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi_I'm_Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
 </p>
 
-## Full Stack Banner
+---
 
-**I am Nadhii Jemal, Software Developer** 💻  
-**I am here to solve real-world problems using tech** 🌍  
-**I am a Full Stack Developer** ⚛️🟢💻  
+## Animated Full Stack Banner
 
-**I am Nadhii Jemal, Software Developer** 💻  
-**I am here to solve real-world problems using tech** 🌍  
-**I am a Full Stack Developer** ⚛️🟢💻  
-
-**I am Nadhii Jemal, Software Developer** 💻  
-**I am here to solve real-world problems using tech** 🌍  
-**I am a Full Stack Developer** ⚛️🟢💻  
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00ff00&width=600&lines=I+am+Nadhii+Jemal,+Software+Developer;I+am+here+to+solve+real-world+problems+using+tech;I+am+a+Full+Stack+Developer)
 
 ---
 
