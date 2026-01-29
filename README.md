@@ -4,15 +4,20 @@
 </p>
 ---
 
+## Animated Full Stack Banner
+
+
 ![Typing Line 1](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=FF5733&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer)
 
-![Typing Line 2](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=1ABC9C&width=800&lines=I+am+a+4th-year+Software+Engineering+Student+at+Haramaya+University)
 
-![Typing Line 3](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=F1C40F&width=800&lines=I+am+here+to+solve+real-world+problems+using+tech)
+![Typing Line 2](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=2500&color=1ABC9C&width=800&lines=I+am+a+4th-year+Software+Engineering+Student+at+Haramaya+University)
 
-![Typing Line 4](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=9B59B6&width=800&lines=I+am+a+Full+Stack+Developer+%28MERN+Stack%29)
 
----
+![Typing Line 3](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=5000&color=F1C40F&width=800&lines=I+am+here+to+solve+real-world+problems+using+tech)
+
+
+![Typing Line 4](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=7500&color=9B59B6&width=800&lines=I+am+a+Full+Stack+Developer+%28MERN+Stack%29)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
 ---
 ## About Me
