@@ -3,104 +3,99 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">
-  Full-Stack Software Engineer | Internship Candidate 🎓
-</h3>
+# Hi 👋, I'm Nadhii
 
-<p align="center">
-  4th Year Software Engineering — Haramaya University
-</p>
-
-<br/>
-
-<!-- ===================== SOCIAL BUTTONS ===================== -->
-<p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- ===================== STATUS BADGES ===================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/EXPERIENCE-Final%20Year-brightgreen"/>
-  <img src="https://img.shields.io/badge/AVAILABILITY-Internship-blue"/>
-  <img src="https://img.shields.io/badge/LOCATION-Ethiopia-black"/>
-  <img src="https://img.shields.io/badge/ROLE-Full--Stack-orange"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NedhiJemal&style=flat-square&color=blue"/>
-</p>
+**Software Developer | Student | Tech Enthusiast** ✨
 
 ---
 
-## 👨‍💻 Professional Profile
-Final-year **Software Engineering student** at **Haramaya University**, specializing in **full-stack web development**.  
-Strong foundation in **backend systems, databases, and scalable application design**.  
-Actively seeking **software engineering internship opportunities**.
+## About Me
+
+I am a passionate software development student with a strong interest in building **clean, efficient, and scalable applications**.  
+I enjoy learning new technologies and applying them to **solve real-world problems**.  
+My focus areas include **backend development**, **web applications**, and **database systems**.  
+I value **continuous learning**, **good software design**, and **practical experience**.
 
 ---
 
-## 🧠 Technical Stack
+## Tech Stack / Skills
 
 ### Programming Languages
-- JavaScript, Python, PHP, Java, C#
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
 
-### Frameworks & Technologies
-- MERN Stack (MongoDB, Express, React, Node.js)
-- ASP.NET / .NET Core
-- RESTful API Development
+### Frameworks & Libraries
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- ![Entity Framework](https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ### Databases
-- MySQL
-- SQL Server
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+- ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 
-### Concepts & Tools
-- OOP & MVC Architecture
-- Git & GitHub
-- Software Development Life Cycle (SDLC)
+### Tools & Platforms
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
----
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NedhiJemal&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NedhiJemal&theme=tokyonight"/>
-</p>
+### Concepts
+- **Object-Oriented Programming (OOP) 💡**  
+- **MVC Architecture 🏛️**  
+- **RESTful APIs 🔗**  
+- **Database Design & Normalization 🗂️**  
+- **Authentication & Authorization 🔐**  
+- **Software Development Life Cycle (SDLC) ⚙️**
 
 ---
 
-## 🟩 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NedhiJemal/NedhiJemal/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+## Currently Learning
+
+- ASP.NET Core Web APIs 🌱  
+- Advanced Database Design 🧩  
+- Clean Architecture 🏗️  
+- GitHub Collaboration Workflows 🔄  
+- Software Testing Fundamentals ✅  
 
 ---
 
-## 🎯 Career Objective
-To secure a **software engineering internship** where I can:
-- Apply real-world development practices
-- Contribute to production-level systems
-- Grow as a professional full-stack engineer
+## Projects
+
+### 🔹 Holistic Exam Management System
+A university-level system designed to manage **holistic examinations for final-year students**.  
+**Technologies:** ASP.NET MVC, Entity Framework, MySQL, C# 💻  
+![Holistic Exam](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+### 🔹 Student Management System
+A CRUD-based application for managing **student records and academic data**.  
+**Technologies:** C#, SQL Server, .NET 🗄️  
+![CRUD](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
+### 🔹 Web-Based Information System *(Placeholder)*
+A **responsive web application** focused on real-world data handling and user interaction.  
+**Technologies:** HTML, CSS, JavaScript, Backend Framework 🎨  
+![Web](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
-<p align="center">
-  <b>Reliable • Focused • Ready to Contribute</b>
-</p>
+## GitHub Stats
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=gradient&section=footer"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+
+---
+
+## Contact & Links
+
+- **GitHub:** [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME) ✨  
+- **LinkedIn:** [https://linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME) 🔗  
+- **Email:** your.email@example.com 📧  
+- **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com) 🌐  
+
+---
+
+⭐ *Always learning. Always building.* 🔥
