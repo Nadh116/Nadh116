@@ -5,7 +5,9 @@
 ---
 
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&pause=1000&color=FF5733&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer+•+4th-year+Software+Engineering+Student+at+Haramaya+University+•+Solving+real-world+problems+using+tech+•+Full+Stack+Developer+%28MERN+Stack%29)
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=8000&pause=500&color=FF5733&width=1200&lines=I+am+Nadhii+Jemal,+Software+Developer+•+4th-year+Software+Engineering+Student+at+Haramaya+University+•+Solving+real-world+problems+using+tech+•+Full+Stack+Developer+%28MERN+Stack%29)
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
