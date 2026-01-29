@@ -8,6 +8,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&pause=1000&color=00ff00&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer;I+am+here+to+solve+real-world+problems+using+tech;I+am+a+Full+Stack+Developer;I+am+a+4th-year+Software+Engineering+Student)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
 
 ## Tech Stack / Skills
 
