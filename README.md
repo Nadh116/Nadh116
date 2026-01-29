@@ -1,22 +1,12 @@
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(NJ)&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(Nedhi%10Tech)&fontSize=40&fontColor=ffffff"/>
 </p>
 ---
-
 ## Animated Full Stack Banner
 
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&pause=1000&color=FF5733&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer+•+4th-year+Software+Engineering+Student+at+Haramaya+University+•+Solving+real-world+problems+using+tech+•+Full+Stack+Developer+%28MERN+Stack%29)
 
-![Typing Line 1](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=FF5733&width=800&lines=I+am+Nadhii+Jemal,+Software+Developer)
-
-
-![Typing Line 2](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=2500&color=1ABC9C&width=800&lines=I+am+a+4th-year+Software+Engineering+Student+at+Haramaya+University)
-
-
-![Typing Line 3](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=5000&color=F1C40F&width=800&lines=I+am+here+to+solve+real-world+problems+using+tech)
-
-
-![Typing Line 4](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=7500&color=9B59B6&width=800&lines=I+am+a+Full+Stack+Developer+%28MERN+Stack%29)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
 ---
