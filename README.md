@@ -71,10 +71,7 @@ My personal responsive portfolio to showcase projects and skills.
 ---
 
 
-
-I am a passionate **Full Stack Developer** with a strong focus on building **modern web applications** using the MERN stack.  
-I enjoy creating **efficient, scalable, and user-friendly solutions** while continuously learning new technologies.  
-My interest lies in **real-world problem solving**, **clean architecture**, and **end-to-end development**.  
+ 
 
 ## GitHub Stats
 
