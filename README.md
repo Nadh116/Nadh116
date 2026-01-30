@@ -93,4 +93,4 @@ My interest lies in **real-world problem solving**, **clean architecture**, and 
 ---
 
 
-
+⭐ *Building modern web solutions with the MERN stack. Always learning, always coding.* 🚀
