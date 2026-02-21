@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
 
 ---
-## 👨‍💻 About Me
+
 
 
 I am **Nadhii Jemal**, a **4th-year Software Engineering student at Haramaya University** and a **Full Stack Developer**.
