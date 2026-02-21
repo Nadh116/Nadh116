@@ -1,7 +1,5 @@
 <!-- ===================== TOP BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nadhii%20Jemal%20(Nedhi_Tech)&fontSize=40&fontColor=ffffff"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(Nedhi_Tech)&fontSize=40&fontColor=ffffff"/> </p>
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&width=1200&lines=Software+Developer;4th-year+Software+Engineering+Student;Building+secure+and+scalable+systems;Full+Stack+Developer+(MERN+Stack)&color=FF5733,1ABC9C,F1C40F,9B59B6)
 
